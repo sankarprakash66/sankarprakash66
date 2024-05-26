@@ -3,7 +3,7 @@
 Software Engineer @ Tridots Tech
 > 🔭 Here's my [portfolio](http://myid.epizy.com)               
 
-- 🌱 I’m currently learning Full Stock & Docker & Cloud & ML/AI
+- 🌱 I’m currently learning Full Stack & Docker & Cloud & ML/AI
 - 🤔 I’m looking for help with Placements in Backend Development
 - 😄 Pronouns: Techie
 - 📫 How to reach me :
