@@ -17,9 +17,9 @@ Software Engineer @ Tridots Tech
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/putty.png" alt="putty"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
-![sankarparakash66's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankarparakash66&theme=dark&show_icons=true&&hide=issues,contribs)![sankarparakash66's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarparakash66&theme=blue-green)
+![sankarprakash66's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankarprakash66&theme=dark&show_icons=true&&hide=issues,contribs)![sankarprakash66's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarprakash66&theme=blue-green)
 
-[![sankarparakash66's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankarparakash66&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![sankarprakash66's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankarprakash66&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 💻 Workspace Spec
