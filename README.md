@@ -7,7 +7,7 @@ Software Engineer @ Tridots Tech
 - 🤔 I’m looking for help with Placements in Backend Development
 - 😄 Pronouns: Techie
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SankarPrakash66) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sankar-prakash-62456024a/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sankar-prakash-62456024a/)
 
 
 ### I code in
@@ -19,6 +19,6 @@ Software Engineer @ Tridots Tech
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Apple-Macbook?style=for-the-badge"/> 
+<img height="30" src="https://img.shields.io/badge/Apple MacBook Pro M1?style=for-the-badge"/> 
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GeForce_920MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
 <img height="30" src="https://img.shields.io/badge/Intel®-i3_7100U-ED1C24?style=for-the-badge"/> 
